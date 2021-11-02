@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ngọc Khánh</string>
+    <string name="yellow_star">Yellow start</string>
+
+    <string name="bio">Hi, my name is Khanh.\n
+        \n\nI am in the early twenties.Currently, I am living in DaNang.
+        \n\nI have been studying information technology for the past two years at VKU University.
+        \nDuring that time I’ve been working in the program industry as a hobby and also for living.
+        \nMy projects ranged web and app mobile.
+        \n\nTo describe myself, I would say I’m a hard-working person that has gained a lot of skills over the years. My teachers and my friends also say that I am a creative individual. You can find some of my works in my portfolio.
+        \n\nI am now looking for an opportunity to devote my skills, enthusiasm, and creativity. After being in the field for a while, I am impressed by your company’s creative and innovative products. I hope I will have a chance to sharpen my skills at the company.\n\n
+
+    </string>
+    <string name="what_is_your_nickname">"What is your Nickname? "</string>
+    <string name="done">Done</string>
+</resources>
